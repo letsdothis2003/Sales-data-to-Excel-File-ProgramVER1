@@ -103,7 +103,7 @@ public class SalesExcelProgram extends JFrame {
     }
     
     /**
-    *This adds a row will all the data based on that sale 
+    *This adds a row with  all the data based on that sale 
     */
 
     private void addsale() {

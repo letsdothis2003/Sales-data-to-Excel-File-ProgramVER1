@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.util.LinkedList;
 import org.apache.poi.ss.usermodel.*;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
-//This uses apache to transfer data to excel 
+//This uses Apache to transfer data to excel 
 public class SalesExcelProgram extends JFrame {
 
 	/**
@@ -18,7 +18,7 @@ public class SalesExcelProgram extends JFrame {
 	* Leave anything blank if you find it unneeded. 
 	* 
 	* DON'T put letters or symbols for price and quantity.
-	* ]t It will trigger an error as those variables are set as integers.
+	* It It will trigger an error as those variables are set as integers.
 	* I especially mean this for price, I know there's a chance a user will put a dollar sign
 	* before that. 
 	*/
